@@ -1,0 +1,100 @@
+,Feature,Ranking
+247,"('admitted_5_day_before', 'Negeri Sembilan')",2
+213,"('admitted_3_day_before', 'Johor')",3
+230,"('admitted_4_day_before', 'Kelantan')",4
+185,"('admitted_2_day_before', 'Kelantan')",4
+215,"('admitted_3_day_before', 'Kelantan')",6
+130,"('ICU_6_day_before', 'Sarawak')",7
+313,"('vacc_2_week_before', 'Sarawak')",8
+184,"('admitted_2_day_before', 'Kedah')",9
+219,"('admitted_3_day_before', 'Perak')",10
+121,"('ICU_6_day_before', 'Johor')",11
+189,"('admitted_2_day_before', 'Perak')",12
+61,"('ICU_2_week_before', 'Johor')",13
+96,"('ICU_4_day_before', 'Pahang')",14
+252,"('admitted_5_day_before', 'Sarawak')",15
+63,"('ICU_2_week_before', 'Kelantan')",16
+278,"('cases_new', 'Pahang')",17
+79,"('ICU_3_day_before', 'Melaka')",18
+116,"('ICU_5_day_before', 'Selangor')",19
+234,"('admitted_4_day_before', 'Perak')",20
+183,"('admitted_2_day_before', 'Johor')",21
+162,"('admitted_1_day_before', 'Sarawak')",22
+205,"('admitted_2_week_before', 'Perlis')",22
+288,"('cases_new', 'W.P. Putrajaya')",24
+290,"('vacc_1_week_before', 'Kedah')",25
+237,"('admitted_4_day_before', 'Sarawak')",26
+16,"('ICU_1_day_before', 'Johor')",27
+164,"('admitted_1_day_before', 'Terengganu')",27
+255,"('admitted_5_day_before', 'W.P. Kuala Lumpur')",29
+153,"('admitted_1_day_before', 'Johor')",30
+217,"('admitted_3_day_before', 'Negeri Sembilan')",31
+276,"('cases_new', 'Melaka')",32
+301,"('vacc_1_week_before', 'W.P. Kuala Lumpur')",33
+193,"('admitted_2_day_before', 'Selangor')",35
+65,"('ICU_2_week_before', 'Negeri Sembilan')",35
+10,"('icu_covid', 'Sarawak')",35
+34,"('ICU_1_week_before', 'Melaka')",37
+138,"('admitted_total', 'Kelantan')",38
+36,"('ICU_1_week_before', 'Pahang')",39
+298,"('vacc_1_week_before', 'Sarawak')",40
+81,"('ICU_3_day_before', 'Pahang')",41
+319,"('vacc_3_week_before', 'Johor')",41
+225,"('admitted_3_day_before', 'W.P. Kuala Lumpur')",44
+151,"('admitted_total', 'W.P. Putrajaya')",44
+188,"('admitted_2_day_before', 'Pahang')",44
+329,"('vacc_3_week_before', 'Selangor')",46
+163,"('admitted_1_day_before', 'Selangor')",47
+165,"('admitted_1_day_before', 'W.P. Kuala Lumpur')",48
+9,"('icu_covid', 'Sabah')",49
+232,"('admitted_4_day_before', 'Negeri Sembilan')",50
+277,"('cases_new', 'Negeri Sembilan')",51
+152,"('overall_admitted', '')",53
+274,"('cases_new', 'Kedah')",53
+146,"('admitted_total', 'Sarawak')",53
+94,"('ICU_4_day_before', 'Melaka')",53
+86,"('ICU_3_day_before', 'Selangor')",56
+223,"('admitted_3_day_before', 'Selangor')",57
+253,"('admitted_5_day_before', 'Selangor')",59
+140,"('admitted_total', 'Negeri Sembilan')",59
+299,"('vacc_1_week_before', 'Selangor')",59
+101,"('ICU_4_day_before', 'Selangor')",61
+268,"('admitted_6_day_before', 'Selangor')",63
+141,"('admitted_total', 'Pahang')",63
+238,"('admitted_4_day_before', 'Selangor')",63
+127,"('ICU_6_day_before', 'Perak')",65
+262,"('admitted_6_day_before', 'Negeri Sembilan')",67
+195,"('admitted_2_day_before', 'W.P. Kuala Lumpur')",67
+206,"('admitted_2_week_before', 'Sabah')",67
+259,"('admitted_6_day_before', 'Kedah')",69
+286,"('cases_new', 'W.P. Kuala Lumpur')",69
+267,"('admitted_6_day_before', 'Sarawak')",71
+2,"('icu_covid', 'Kelantan')",71
+284,"('cases_new', 'Selangor')",73
+155,"('admitted_1_day_before', 'Kelantan')",74
+198,"('admitted_2_week_before', 'Johor')",75
+342,"('vacc_4_week_before', 'Sabah')",75
+260,"('admitted_6_day_before', 'Kelantan')",77
+294,"('vacc_1_week_before', 'Pahang')",78
+37,"('ICU_1_week_before', 'Perak')",79
+316,"('vacc_2_week_before', 'W.P. Kuala Lumpur')",80
+320,"('vacc_3_week_before', 'Kedah')",80
+40,"('ICU_1_week_before', 'Sarawak')",82
+178,"('admitted_1_week_before', 'Selangor')",83
+99,"('ICU_4_day_before', 'Sabah')",84
+71,"('ICU_2_week_before', 'Selangor')",84
+199,"('admitted_2_week_before', 'Kedah')",86
+170,"('admitted_1_week_before', 'Kelantan')",87
+131,"('ICU_6_day_before', 'Selangor')",88
+208,"('admitted_2_week_before', 'Selangor')",89
+244,"('admitted_5_day_before', 'Kedah')",90
+251,"('admitted_5_day_before', 'Sabah')",91
+346,"('vacc_4_week_before', 'W.P. Kuala Lumpur')",91
+115,"('ICU_5_day_before', 'Sarawak')",93
+126,"('ICU_6_day_before', 'Pahang')",94
+142,"('admitted_total', 'Perak')",96
+91,"('ICU_4_day_before', 'Johor')",96
+240,"('admitted_4_day_before', 'W.P. Kuala Lumpur')",96
+285,"('cases_new', 'Terengganu')",98
+76,"('ICU_3_day_before', 'Johor')",99
+245,"('admitted_5_day_before', 'Kelantan')",99

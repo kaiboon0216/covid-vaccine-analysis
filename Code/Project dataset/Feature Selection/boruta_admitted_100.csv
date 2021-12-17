@@ -1,0 +1,100 @@
+,Feature,Ranking
+40,"('admitted_1_week_before', 'Sarawak')",2
+107,"('admitted_5_day_before', 'Kedah')",3
+147,"('cases_new', 'Selangor')",4
+49,"('admitted_2_day_before', 'Melaka')",5
+63,"('admitted_2_week_before', 'Kelantan')",6
+161,"('vacc_1_week_before', 'Sarawak')",7
+122,"('admitted_6_day_before', 'Kedah')",8
+141,"('cases_new', 'Pahang')",9
+3,"('admitted_total', 'Melaka')",10
+24,"('admitted_1_day_before', 'Sabah')",10
+80,"('admitted_3_day_before', 'Negeri Sembilan')",12
+19,"('admitted_1_day_before', 'Melaka')",13
+91,"('admitted_4_day_before', 'Johor')",14
+96,"('admitted_4_day_before', 'Pahang')",14
+123,"('admitted_6_day_before', 'Kelantan')",16
+36,"('admitted_1_week_before', 'Pahang')",17
+116,"('admitted_5_day_before', 'Selangor')",18
+35,"('admitted_1_week_before', 'Negeri Sembilan')",19
+11,"('admitted_total', 'Selangor')",20
+76,"('admitted_3_day_before', 'Johor')",21
+146,"('cases_new', 'Sarawak')",22
+4,"('admitted_total', 'Negeri Sembilan')",22
+131,"('admitted_6_day_before', 'Selangor')",24
+142,"('cases_new', 'Perak')",25
+86,"('admitted_3_day_before', 'Selangor')",26
+125,"('admitted_6_day_before', 'Negeri Sembilan')",27
+78,"('admitted_3_day_before', 'Kelantan')",28
+16,"('admitted_1_day_before', 'Johor')",29
+85,"('admitted_3_day_before', 'Sarawak')",29
+32,"('admitted_1_week_before', 'Kedah')",31
+2,"('admitted_total', 'Kelantan')",31
+65,"('admitted_2_week_before', 'Negeri Sembilan')",33
+0,"('admitted_total', 'Johor')",34
+139,"('cases_new', 'Melaka')",35
+25,"('admitted_1_day_before', 'Sarawak')",37
+92,"('admitted_4_day_before', 'Kedah')",37
+101,"('admitted_4_day_before', 'Selangor')",37
+50,"('admitted_2_day_before', 'Negeri Sembilan')",39
+121,"('admitted_6_day_before', 'Johor')",40
+110,"('admitted_5_day_before', 'Negeri Sembilan')",40
+98,"('admitted_4_day_before', 'Perlis')",42
+151,"('cases_new', 'W.P. Putrajaya')",43
+70,"('admitted_2_week_before', 'Sarawak')",43
+10,"('admitted_total', 'Sarawak')",45
+84,"('admitted_3_day_before', 'Sabah')",47
+191,"('vacc_3_week_before', 'Sarawak')",47
+54,"('admitted_2_day_before', 'Sabah')",47
+28,"('admitted_1_day_before', 'W.P. Kuala Lumpur')",49
+31,"('admitted_1_week_before', 'Johor')",49
+182,"('vacc_3_week_before', 'Johor')",51
+39,"('admitted_1_week_before', 'Sabah')",51
+81,"('admitted_3_day_before', 'Pahang')",53
+111,"('admitted_5_day_before', 'Pahang')",53
+118,"('admitted_5_day_before', 'W.P. Kuala Lumpur')",55
+140,"('cases_new', 'Negeri Sembilan')",56
+33,"('admitted_1_week_before', 'Kelantan')",58
+55,"('admitted_2_day_before', 'Sarawak')",58
+95,"('admitted_4_day_before', 'Negeri Sembilan')",58
+7,"('admitted_total', 'Perlis')",60
+83,"('admitted_3_day_before', 'Perlis')",61
+162,"('vacc_1_week_before', 'Selangor')",62
+88,"('admitted_3_day_before', 'W.P. Kuala Lumpur')",63
+68,"('admitted_2_week_before', 'Perlis')",64
+106,"('admitted_5_day_before', 'Johor')",65
+9,"('admitted_total', 'Sabah')",65
+53,"('admitted_2_day_before', 'Perlis')",67
+18,"('admitted_1_day_before', 'Kelantan')",67
+190,"('vacc_3_week_before', 'Sabah')",69
+148,"('cases_new', 'Terengganu')",70
+103,"('admitted_4_day_before', 'W.P. Kuala Lumpur')",72
+66,"('admitted_2_week_before', 'Pahang')",72
+100,"('admitted_4_day_before', 'Sarawak')",72
+93,"('admitted_4_day_before', 'Kelantan')",72
+138,"('cases_new', 'Kelantan')",75
+22,"('admitted_1_day_before', 'Perak')",75
+159,"('vacc_1_week_before', 'Perlis')",77
+128,"('admitted_6_day_before', 'Perlis')",79
+79,"('admitted_3_day_before', 'Melaka')",79
+102,"('admitted_4_day_before', 'Terengganu')",79
+47,"('admitted_2_day_before', 'Kedah')",81
+136,"('cases_new', 'Johor')",82
+124,"('admitted_6_day_before', 'Melaka')",82
+48,"('admitted_2_day_before', 'Kelantan')",84
+179,"('vacc_2_week_before', 'W.P. Kuala Lumpur')",85
+64,"('admitted_2_week_before', 'Melaka')",86
+77,"('admitted_3_day_before', 'Kedah')",86
+130,"('admitted_6_day_before', 'Sarawak')",88
+113,"('admitted_5_day_before', 'Perlis')",89
+56,"('admitted_2_day_before', 'Selangor')",90
+149,"('cases_new', 'W.P. Kuala Lumpur')",91
+62,"('admitted_2_week_before', 'Kedah')",92
+46,"('admitted_2_day_before', 'Johor')",93
+20,"('admitted_1_day_before', 'Negeri Sembilan')",95
+87,"('admitted_3_day_before', 'Terengganu')",95
+37,"('admitted_1_week_before', 'Perak')",95
+23,"('admitted_1_day_before', 'Perlis')",97
+61,"('admitted_2_week_before', 'Johor')",98
+27,"('admitted_1_day_before', 'Terengganu')",99
+115,"('admitted_5_day_before', 'Sarawak')",99

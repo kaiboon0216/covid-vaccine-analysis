@@ -1,0 +1,51 @@
+,Feature,Ranking
+93,"('cases_2_day_before', 'Selangor')",2
+47,"('daily_vacc', 'Sarawak')",3
+138,"('cases_4_day_before', 'Selangor')",4
+31,"('cases_new', 'Sarawak')",5
+16,cluster_workplace,6
+3,cases_cluster,7
+55,"('cases_1_day_before', 'Kelantan')",8
+77,"('cases_1_week_before', 'Sarawak')",8
+86,"('cases_2_day_before', 'Melaka')",10
+63,"('cases_1_day_before', 'Selangor')",11
+168,"('cases_6_day_before', 'Selangor')",12
+102,"('cases_2_week_before', 'Negeri Sembilan')",13
+110,"('cases_2_week_before', 'W.P. Kuala Lumpur')",15
+104,"('cases_2_week_before', 'Perak')",15
+128,"('cases_4_day_before', 'Johor')",15
+125,"('cases_3_day_before', 'W.P. Kuala Lumpur')",17
+59,"('cases_1_day_before', 'Perak')",18
+146,"('cases_5_day_before', 'Melaka')",20
+121,"('cases_3_day_before', 'Sabah')",20
+167,"('cases_6_day_before', 'Sarawak')",20
+74,"('cases_1_week_before', 'Perak')",22
+145,"('cases_5_day_before', 'Kelantan')",23
+109,"('cases_2_week_before', 'Terengganu')",24
+147,"('cases_5_day_before', 'Negeri Sembilan')",24
+114,"('cases_3_day_before', 'Kedah')",26
+23,"('cases_new', 'Kelantan')",27
+140,"('cases_4_day_before', 'W.P. Kuala Lumpur')",28
+61,"('cases_1_day_before', 'Sabah')",29
+78,"('cases_1_week_before', 'Selangor')",30
+33,"('cases_new', 'Terengganu')",31
+153,"('cases_5_day_before', 'Selangor')",32
+2,cases_active,33
+12,cluster_community,34
+8,cases_adult,35
+65,"('cases_1_day_before', 'W.P. Kuala Lumpur')",35
+170,"('cases_6_day_before', 'W.P. Kuala Lumpur')",37
+53,"('cases_1_day_before', 'Johor')",38
+6,cases_child,39
+70,"('cases_1_week_before', 'Kelantan')",40
+123,"('cases_3_day_before', 'Selangor')",41
+119,"('cases_3_day_before', 'Perak')",41
+30,"('cases_new', 'Sabah')",43
+87,"('cases_2_day_before', 'Negeri Sembilan')",44
+92,"('cases_2_day_before', 'Sarawak')",44
+32,"('cases_new', 'Selangor')",46
+111,"('cases_2_week_before', 'W.P. Labuan')",47
+89,"('cases_2_day_before', 'Perak')",48
+48,"('daily_vacc', 'Selangor')",49
+95,"('cases_2_day_before', 'W.P. Kuala Lumpur')",50
+18,pcr,50

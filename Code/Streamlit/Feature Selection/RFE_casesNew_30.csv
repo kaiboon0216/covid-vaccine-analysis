@@ -1,0 +1,31 @@
+,Feature,Ranking
+18,pcr,1
+122,"('cases_3_day_before', 'Sarawak')",2
+16,cluster_workplace,3
+140,"('cases_4_day_before', 'W.P. Kuala Lumpur')",4
+72,"('cases_1_week_before', 'Negeri Sembilan')",5
+115,"('cases_3_day_before', 'Kelantan')",6
+9,cases_elderly,7
+91,"('cases_2_day_before', 'Sabah')",8
+147,"('cases_5_day_before', 'Negeri Sembilan')",9
+108,"('cases_2_week_before', 'Selangor')",10
+25,"('cases_new', 'Negeri Sembilan')",11
+123,"('cases_3_day_before', 'Selangor')",12
+79,"('cases_1_week_before', 'Terengganu')",13
+137,"('cases_4_day_before', 'Sarawak')",14
+47,"('daily_vacc', 'Sarawak')",15
+139,"('cases_4_day_before', 'Terengganu')",16
+155,"('cases_5_day_before', 'W.P. Kuala Lumpur')",17
+98,"('cases_2_week_before', 'Johor')",18
+167,"('cases_6_day_before', 'Sarawak')",19
+12,cluster_community,20
+116,"('cases_3_day_before', 'Melaka')",21
+107,"('cases_2_week_before', 'Sarawak')",22
+143,"('cases_5_day_before', 'Johor')",23
+128,"('cases_4_day_before', 'Johor')",24
+71,"('cases_1_week_before', 'Melaka')",25
+24,"('cases_new', 'Melaka')",26
+110,"('cases_2_week_before', 'W.P. Kuala Lumpur')",27
+53,"('cases_1_day_before', 'Johor')",28
+160,"('cases_6_day_before', 'Kelantan')",29
+29,"('cases_new', 'Pulau Pinang')",30
